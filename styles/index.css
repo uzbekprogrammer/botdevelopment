@@ -1,0 +1,54 @@
+#navbar {
+    font-weight: 300;
+    height: 80px;
+    padding: 10px 20px;
+    line-height: 50px;
+    font-size: 32px;
+}
+
+#navbar-img {
+    display: block;
+    float: left;
+    height: 75px;
+    margin-right: 10px;
+    margin-top: -5px;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+section.header {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+section.price, section.order, section.features, section.footer, section.contacts p {
+    font-size: 18px;
+    line-height: 1.7;
+    text-align: center;
+    margin: 20px 0 40px;
+    padding: 0 20px;
+}
+
+#divrowdiv2 {
+    padding-top: 25px;
+}
+
+.featuresrow {
+    padding-top: 50px;
+}
+
+section.price, section.contacts {
+    padding: 50px 0;
+}
+
+.col-md-offset-3 {
+    margin-left: 25%;
+}
+
+.navbar-color {
+    background-color: #C8E1F4;
+}
